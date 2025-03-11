@@ -1,17 +1,17 @@
 # My Fish - 2D Game 🎮🐟
 
-"My Fish" ek mazedar 2D game hai jisme aapko ek fish ko rockets se bachakar points kamaane hain. Jitni der tak aap bacha payenge, utna zyada score milega!
+"My Fish" is a fun 2D game where you control a fish that must avoid rockets and earn points. The longer you survive, the higher your score!
 
 ## 🚀 How to Play
-1. **Start** button par click karke game shuru karein.  
-2. Fish ko control karne ke liye screen par diye gaye **buttons** ka use karein.  
-3. Rockets se bachiye aur score banate rahiye.  
-4. Apna highest score beat karne ki koshish karein!  
+1. Click the **Start** button to begin.  
+2. Use the **buttons** on the screen to control the fish.  
+3. Avoid rockets and keep earning points.  
+4. Try to beat your highest score!  
 
 ## 🎯 Features
-✅ Simple aur intuitive controls  
-✅ Fun aur challenging gameplay  
-✅ Clean aur colorful design  
+✅ Easy controls  
+✅ Fun and challenging gameplay  
+✅ Clean and colorful design  
 
 ## 🔗 Play Now
 👉 [My Fish - Play Online](https://omvijaysharma.github.io/my-fish/)
@@ -19,4 +19,4 @@
 ## 🧑‍💻 Credits
 Developed by **Om Vijay Sharma**  
 
-Agar aapko feedback dena ho ya issues report karni ho to zaroor batayein!
+Feel free to share your feedback or report any issues!
